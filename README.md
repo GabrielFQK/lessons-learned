@@ -2,7 +2,7 @@
 
 ![Preview do Projeto](preview.gif)
 
-Você pode ver o projeto em seu navegador [clicando aqui](https://gabrielfqk.github.io/projetos/1-lessons-learned/)
+Você pode ver o projeto em seu navegador [clicando aqui](https://gabrielfqk.github.io/lessons-learned/)
 
 ## :pencil: Sobre
 
